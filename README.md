@@ -1,6 +1,7 @@
+<img align="right" alt ="coding" width="Banner.png">
 <h1 align="center">Hi , I'm Sanika Malwade</h1>
 <h3 align="center">Transforming complex problems into elegant, scalable code.</h3>
-<img align="right" alt ="coding" width="400" src="https://miro.medium.com/0*yBvA5CnEX3Sd4aod.gif"
+<img align="right" alt ="coding" width="400" src="https://miro.medium.com/0*yBvA5CnEX3Sd4aod.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sanika-malwade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanika-malwade" height="30" width="40" /></a>
