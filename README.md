@@ -1,4 +1,4 @@
-<img align="right" alt ="coding" width="Banner.png">
+<img align="right" alt ="intro" src="Banner.png" >
 <h1 align="center">Hi , I'm Sanika Malwade</h1>
 <h3 align="center">Transforming complex problems into elegant, scalable code.</h3>
 <img align="right" alt ="coding" width="400" src="https://miro.medium.com/0*yBvA5CnEX3Sd4aod.gif">
